@@ -16,7 +16,7 @@ This project is a NestJS application using Prisma for ORM and MySQL as the datab
 
 ```bash
 git clone https://github.com/ezekielkibiego/rbac-backend.git
-cd your-repository
+cd rbac-backend
 ```
 ## Install Dependencies
 
